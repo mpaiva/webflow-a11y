@@ -36,3 +36,17 @@ In order for Webflow to succeed in this study, it is expected to support the fol
 - ARIA Live Region Attributes
   - aria-live
   - aria-busy
+
+
+## Expected Outcome
+Testing the output on a screen reader is our end goal for this study, before presenting our findings to a screen reader users.
+
+For testing with assistive technologies, it will be required to publish the prototype on a public server and test with one of the following screen readers:
+- Voiceover
+- NVDA
+- Jaws
+
+---
+
+# Please contribute
+Please submit any questions or feedback at our [issues page](https://github.com/mpaiva/webflow-a11y/issues/new).
