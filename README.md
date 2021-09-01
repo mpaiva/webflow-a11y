@@ -22,6 +22,7 @@ In order for Webflow to succeed in this study, it is expected to support the fol
 #### UI Patterns
 - Skip-links
 - Named anchor links
+- Form inputs and submission
 - File upload
 
 #### Accessibility Patterns
