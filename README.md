@@ -18,8 +18,13 @@ The goal of this study is to create a Accessible Job Listing site, where screen 
 
 ### Webflow Challenges
 In order for Webflow to succeed in this study, it is expected to support the following:
+
+#### UI Patterns
 - Skip-links
 - Named anchor links
+- File upload
+
+#### Accessibility Patterns
 - ARIA Landmark Roles: 
   - banner
   - form
