@@ -15,3 +15,24 @@ The goal of this study is to create a Accessible Job Listing site, where screen 
 - Wayfinding - Navigate to search without many impediments
 - Search - Find a specific job posting
 - Apply - Submit resume and application
+
+### Webflow Challenges
+In order for Webflow to succeed in this study, it is expected to support the following:
+- Skip-links
+- Named anchor links
+- ARIA Landmark Roles: 
+  - banner
+  - form
+  - region
+  - search
+  - navigation
+  - main
+- ARIA Widget Attributes
+  - aria-label
+  - aria-placeholder
+- ARIA Relationship Attributes
+  - aria-labeledby
+  - aria-describedby
+- ARIA Live Region Attributes
+  - aria-live
+  - aria-busy
